@@ -2,13 +2,10 @@
 Hi, I'm Marcos, a few months ago I decided to dedicate myself to the world of web development. It has been a difficult journey, but I want to learn, grow and contribute to the community.
 
 ### 🌱 I’m currently learning:
-- React
-- Next
-- Typescript
-- Node
-- Docker
+Now, I be in **React**, **Next**, **Typescript**, **Node** and **Docker** stack.
 
 ### 📫 How to reach me:
+![Linkedin Badge](https://img.shields.io/badge/-MarcosFernandes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos--fernandes/)
 
 <!--
 **marcosanf/marcosanf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
