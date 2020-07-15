@@ -1,8 +1,14 @@
-# Hi, Marcos here :man_technologist:
+# marcosanf #BeProud :rainbow_flag:
+Hi, I'm Marcos, a few months ago I decided to dedicate myself to the world of web development. It has been a difficult journey, but I want to learn, grow and contribute to the community.
 
-## 🌱 I’m currently learning ...
+### 🌱 I’m currently learning:
+- React
+- Next
+- Typescript
+- Node
+- Docker
 
-
+### 📫 How to reach me:
 
 <!--
 **marcosanf/marcosanf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
