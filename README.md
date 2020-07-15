@@ -1,7 +1,7 @@
-### Hi there, Marcos here 👋
+# Hi, Marcos here :man_technologist:
 
-### Welcome to my crazy and funny world
-<img src="profile.svg" width="350px">
+## 🌱 I’m currently learning ...
+
 
 
 <!--
