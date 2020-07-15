@@ -1,9 +1,7 @@
 ### Hi there, Marcos here 👋
 
-<div justify="right" class="__profile">
-  <h1>Welcome to my crazy and funny world</h1>
-  <img src="profile.svg" width="350px">
-</div>
+### Welcome to my crazy and funny world
+<img src="profile.svg" width="350px">
 
 
 <!--
