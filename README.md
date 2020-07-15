@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi there, Marcos here 👋
+
+<style>
+  .__profile {
+    display: flex;
+  }
+</style>
+
+<div class="__profile">
+  <h1>Welcome to my crazy and funny world</h1>
+  <img src="profile.svg" width="350px">
+</div>
+
 
 <!--
 **marcosanf/marcosanf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
