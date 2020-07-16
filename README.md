@@ -5,7 +5,7 @@ Hi, I'm Marcos, a few months ago I decided to dedicate myself to the world of we
 Now, I be in **React**, **Next**, **Typescript**, **Node** and **Docker** stack.
 
 ### 📫 How to reach me:
-![Linkedin Badge](https://img.shields.io/badge/-MarcosFernandes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos--fernandes/)
+![Linkedin Badge](https://img.shields.io/badge/-MarcosFernandes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos--fernandes/) ![Gmail Badge](https://img.shields.io/badge/-marcosanf.c@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcosanf.c@gmail.com)
 
 <!--
 **marcosanf/marcosanf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
