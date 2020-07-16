@@ -1,5 +1,5 @@
 # marcosanf #BeProud :rainbow_flag:
-Hi, I'm Marcos, a few months ago I decided to dedicate myself to the world of web development. It has been a difficult journey, but I want to learn, grow and contribute to the community.
+Hi, I'm Marcos, a few weeks ago I decided to dedicate myself to the world of web development. It has been a difficult journey, but I want to learn, grow and contribute to the community.
 
 ### 🌱 I’m currently learning:
 Now, I'm dedicated to learning **React**, **Next**, **Typescript**, and **Node** stack. 
